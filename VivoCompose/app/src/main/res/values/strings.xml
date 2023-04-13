@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Vivo Compose</string>
+
+    <string name="Continuar">Continuar</string>
+    <string name="vivir_mejor">VIVIR MEJOR... Y MÁS</string>
+    <string name="descubre_un">DESCUBRE UN NUEVO CONCEPTO DE SALUD</string>
+    <string name="citas_e_inf">CITAS E INFORMES</string>
+    <string name="en_vivo_tra">En VIVO trabajamos para que no tengas que ser un paciente basándonos en el diagnóstico preventivo.</string>
+    <string name="contamos_co">Contamos con las mejores y más modernas técnicas de diagnostico.\nPide cita y accede en cualquier momento a tus informes de salud.</string>
+    <string name="accede_a_tu">Accede a tu historial completo de pruebas e informes.\nPide cita en cualquier momento con nuestro asistente conversacional.</string>
+    <string name="IniciaSesion">INICIA SESIÓN</string>
+    <string name="Registrate">REGÍSTRATE</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="tienesya">¿TIENES YA UNA CUENTA?</string>
+    <string name="NoTienesCuenta">¿NO TIENES CUENTA?</string>
+    <string name="YaTienesCuenta">¿Tienes ya una cuenta?</string>
+    <string name="OlvidadoTuContraseña">¿Has olvidado tu contraseña?</string>
+    <string name="SecurePassword">Tu contraseña debe contener al menos 8 caracteres entre mayúsculas y minúsculas y números.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="AgregarCalendario">Añadir al Calendario</string>
+    <string name="VerDetalle">Ver detalle</string>
+    <string name="VerTodos">Ver todos</string>
+    <string name="informe_de_">Informe de diagnóstico por imagen</string>
+    <string name="dia">22 de Diciembre de 2022</string>
+    <string name="lugar">Centro Isomed Pharma</string>
+    <string name="hora">9:30h</string>
+    <string name="logo">LOGO</string>
+    <string name="empezar">Empezar</string>
+    <string name="resonancia_">Resonancia magnética abierta:\nRM de caderas uni o bilateral s/c abierta</string>
+    <string name="consulta_pr">Consulta presencial Radiología</string>
+    <string name="mi_ltimo_in">MI ÚLTIMO INFORME</string>
+    <string name="hospital_la">Hospital La Moraleja</string>
+    <string name="de_diciembr">22 de diciembre de 2022</string>
+    <string name="ltimos_art">ÚLTIMOS ARTÍCULOS</string>
+    <string name="jason_respo">BRONQUITIS Y BRONQUIOLITIS: ¿EN QUÉ SE DIFERENCIAN?</string>
+    <string name="test_recome">TEST RECOMENDADOS</string>
+    <string name="estudio_gen">Estudio genético de cáncer hereditario colorrectal</string>
+    <string name="estudio_gen2">Estudio genético de cáncer hereditario de mama y ovario</string>
+    <string name="estudio_gen3">Estudio genético de cáncer hereditario de próstata</string>
+    <string name="ver_todos">Ver todos</string>
+    <string name="a_adir_al_c">Añadir al calendario</string>
+    <string name="ver_detalle">Ver detalle</string>
+    <string name="home">Home</string>
+    <string name="informes">Informes</string>
+    <string name="mis_citas">Mis citas</string>
+    <string name="centros">Centros</string>
+    <string name="dochl712749">DOCHL712749279927.pdf</string>
+    <string name="archivos_ad">Archivos adjuntos</string>
+    <string name="tu_pr_xima_">TU PRÓXIMA CITA</string>
+
+</resources>

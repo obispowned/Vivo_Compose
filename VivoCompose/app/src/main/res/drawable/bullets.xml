@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- drawable/bullets.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="93.33dp"
+    android:height="8dp"
+    android:viewportWidth="93.33"
+    android:viewportHeight="8"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M0 0H93.3333V8H0V0Z"
+            />
+
+    </group>
+
+</vector>
