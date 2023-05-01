@@ -1,6 +1,6 @@
 # Vivo_Compose
 
-Vivo Compose es una aplicación educativa para aprender Jetpack Compose. Aunque aún está en desarrollo y no tiene backend, ya incluye algunas funcionalidades interesantes.
+Vivo Compose es una aplicación didáctica creada en Jetpack Compose. Aunque aún está en desarrollo y no tiene backend, ya incluye algunas funcionalidades interesantes.
 
 
 ## Características
