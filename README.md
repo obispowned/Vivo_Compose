@@ -1,11 +1,18 @@
 # Vivo_Compose
 
-Vivo Compose es una app didáctica de compose. Falta de implementar el backend. Aun está en desarrollo.
-La aplicacion muestra un splashScreen con una sencilla animacion y hace incapié en el diseño, construido unicamente con Jetpack Compose.
-Destaca la utilizacion de ViewModel con LiveData y estados.
+Vivo Compose es una aplicación educativa para aprender Jetpack Compose. Aunque aún está en desarrollo y no tiene backend, ya incluye algunas funcionalidades interesantes.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
+##Características
 
-<img src="https://s12.gifyu.com/images/2023-04-20-09-49-51.gif" width="30%">
+Presenta un SplashScreen con una animación sencilla
+Se enfoca en el diseño, construido completamente con Jetpack Compose
+Utiliza ViewModel con LiveData y estados para manejar los datos
 
+
+##Captura de pantalla
+
+A continuación, se muestra una captura de pantalla de la aplicación:
+
+<div align="center">
+  <img src="https://s12.gifyu.com/images/2023-04-20-09-49-51.gif" width="30%">
 </div>
