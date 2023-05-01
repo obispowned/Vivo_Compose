@@ -15,5 +15,5 @@ Vivo Compose es una aplicación didáctica creada en Jetpack Compose. Aunque aú
 A continuación, se muestra una captura de pantalla de la aplicación:
 
 <div align="center">
-  <img src="https://s12.gifyu.com/images/2023-04-20-09-49-51.gif" width="30%">
+  <img src="https://s12.gifyu.com/images/2023-04-20-09-49-51.gif" width="40%">
 </div>
