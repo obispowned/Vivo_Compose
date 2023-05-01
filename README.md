@@ -5,9 +5,9 @@ Vivo Compose es una aplicación didáctica creada en Jetpack Compose. Aunque aú
 
 ## Características
 
-· Presenta un SplashScreen con una animación sencilla
-· Se enfoca en el diseño, construido completamente con Jetpack Compose
-· Utiliza ViewModel con LiveData y estados para manejar los datos
+- Presenta un SplashScreen con una animación sencilla.
+- Se enfoca en el diseño, construido completamente con Jetpack Compose.
+- Utiliza ViewModel con LiveData y estados para manejar los datos.
 
 
 ## Captura de pantalla
