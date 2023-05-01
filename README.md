@@ -5,5 +5,5 @@ La aplicacion muestra un splashScreen con una sencilla animacion y hace incapié
 Destaca la utilizacion de ViewModel con LiveData y estados.
 
 
-<img src="https://s12.gifyu.com/images/2023-04-20-09-49-51.gif" width="20%">
+<img src="https://s12.gifyu.com/images/2023-04-20-09-49-51.gif" width="30%">
 
